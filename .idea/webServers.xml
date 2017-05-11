@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a9acfea2-936f-41b3-8417-399be17c4539" name="IOT-Pi3-Alexa-Automation" url="http://192.168.0.112">
+        <fileTransfer host="192.168.0.112" port="22" rootFolder="/home/pi/projects/IOT-Pi3-Alexa-Automation" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

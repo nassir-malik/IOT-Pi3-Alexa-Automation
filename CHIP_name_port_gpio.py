@@ -22,7 +22,8 @@ class device_handler(debounce_handler):
     """Publishes the on/off state requested,
        and the IP address of the Echo making the request.
     """
-    TRIGGERS = {str(sys.argv[1]): int(sys.argv[2])}
+    #TRIGGERS = {str(sys.argv[1]): int(sys.argv[2])}
+    TRIGGERS = {"office": 52000}
  
     def act(self, client_address, state, name):
         print("State", state, "from client @", client_address)

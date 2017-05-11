@@ -20,13 +20,14 @@ class device_handler(debounce_handler):
     """Publishes the on/off state requested,
        and the IP address of the Echo making the request.
     """
-    TRIGGERS = {str(sys.argv[1]): int(sys.argv[2])}
- 
+    #TRIGGERS = {str(sys.argv[1]): int(sys.argv[2])}
+    TRIGGERS = {"office": 52000}
+
     def act(self, client_address, state, name):
         print ("State", state, "from client @", client_address)
         GPIO.setmode(GPIO.BOARD) ## Use board pin numbering
-        GPIO.setup(int(sys.argv[3]), GPIO.OUT)   ## Setup GPIO Pin to OUTPUT
-        GPIO.output(int(sys.argv[3]), not state) ## State is true/false
+        GPIO.setup(int(3), GPIO.OUT)   ## Setup GPIO Pin to OUTPUT
+        GPIO.output(int(3), not state) ## State is true/false
         return True
  
 if __name__ == "__main__":
