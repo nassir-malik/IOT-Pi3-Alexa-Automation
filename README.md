@@ -19,6 +19,7 @@ https://github.com/xtacocorex/CHIP_IO
   
 1. Launch "win32diskimager" program. Select image file "2017-04-10-raspbian-jessie.img" and you sd card drive letter and click "Write"
   (Wait for program to finish writing REAPBIAN image to the sd card)
+      
       Inline-style: 
     ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
