@@ -17,7 +17,7 @@ https://github.com/xtacocorex/CHIP_IO
 
 1. Connect mini-sd card to computer and fprmate to FAT32
   
-1. Launch "win32diskimager" program. Select image file "2017-04-10-raspbian-jessie.img" and you sd card drive letter and click "Write"
+1. Launch "win32diskimager" program. Select image file "2017-04-10-raspbian-jessie.img" and your sd card drive letter and click "Write"
   (Wait for program to finish writing REAPBIAN image to the sd card)
       
     ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/win32diskimager.jpg)
