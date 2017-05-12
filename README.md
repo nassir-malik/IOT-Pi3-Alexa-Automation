@@ -20,8 +20,7 @@ https://github.com/xtacocorex/CHIP_IO
 1. Launch "win32diskimager" program. Select image file "2017-04-10-raspbian-jessie.img" and you sd card drive letter and click "Write"
   (Wait for program to finish writing REAPBIAN image to the sd card)
       
-      Inline-style: 
-    ![alt text](https://github.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/win32diskimager.jpg "Logo Title Text 1")
+    ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/win32diskimager.jpg)
 
 1. Once image wrting is complated, open windows explorer and click on sd card driver letter and create a "ssh" file without any extenssion.
 
