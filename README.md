@@ -15,7 +15,7 @@ https://github.com/xtacocorex/CHIP_IO
 
 1. Install "win32diskimager-1.0.0-install.exe"
 
-1. Connect mini-sd card to a computer. In windows explorer right click your sd card drive letter and click on format menue.
+1. Connect mini-sd card to a computer. In windows explorer right click your sd card drive letter and click on format menu.
   In format window select "FAT" in "File System" list file and click start.
   
   ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/formatsdcard.jpg)
