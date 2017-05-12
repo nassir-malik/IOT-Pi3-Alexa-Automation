@@ -21,7 +21,7 @@ https://github.com/xtacocorex/CHIP_IO
   (Wait for program to finish writing REAPBIAN image to the sd card)
       
       Inline-style: 
-    ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+    ![alt text](https://github.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/win32diskimager.jpg "Logo Title Text 1")
 
 1. Once image wrting is complated, open windows explorer and click on sd card driver letter and create a "ssh" file without any extenssion.
 
