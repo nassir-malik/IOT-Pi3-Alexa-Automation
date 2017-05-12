@@ -22,7 +22,7 @@ https://github.com/xtacocorex/CHIP_IO
       
     ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/win32diskimager.jpg)
 
-1. Once image wrting is complated, open windows explorer and click on sd card driver letter and create a "ssh" file without any extenssion.
+1. Once image wrting is completed, open windows explorer and click on sd card driver letter and create a "ssh" file without any extenssion.
 
 1. Insert the sd card into Raspberry Pi 3 and boot
 
