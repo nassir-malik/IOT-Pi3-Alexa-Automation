@@ -1,5 +1,5 @@
 # IOT-Pi3-Alexa-Automation
-Use Raspberry Pi 3 as home automation device with Alexa. This project will allows you to control multiple devices connected to Raspberry Pi 3 with voice command. You area able to control GPIO pins thus control GPIO connected devies.
+Use Raspberry Pi 3 as home automation device with Alexa. This project will allows you to control multiple devices connected to Raspberry Pi 3 with voice command. You area able to control GPIO pins thus control GPIO connected devices.
 
 Ported from original repos for python 3
 https://github.com/toddmedema/echo
@@ -17,8 +17,14 @@ https://github.com/xtacocorex/CHIP_IO
 
 1. Connect mini-sd card to computer and fprmate to FAT32
 
+  Inline-style: 
+  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+  
 1. Launch "win32diskimager" program. Select image file "2017-04-10-raspbian-jessie.img" and you sd card drive letter and click "Write"
   (Wait for program to finish writing REAPBIAN image to the sd card)
 
-1. Once image wrting is complate go to the windows explorer and click on sd card driver letter and create a "ssh" file without any extenssion.
+1. Once image wrting is complated, open windows explorer and click on sd card driver letter and create a "ssh" file without any extenssion.
 
+1. Insert the sd card into Raspberry Pi 3 and boot
+
+1. 
