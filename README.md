@@ -30,3 +30,5 @@ https://github.com/xtacocorex/CHIP_IO
 1. Insert the sd card into Raspberry Pi 3 and boot
 
 1. Download "Putty.exe" from following URL https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+1. Run "Putty.exe" and 
