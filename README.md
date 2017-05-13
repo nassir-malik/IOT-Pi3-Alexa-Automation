@@ -44,7 +44,7 @@ https://github.com/xtacocorex/CHIP_IO
 1. Download and install VNC client on youe pc https://www.realvnc.com/download/vnc/windows/. Connect VNC to Respberry Pi3 using IP address. Login with user name "pi" and password "raspberry". You should see Pi3 desktop.
 
     ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/pi3vnc.png)
-1. sudo apt-get update sudo apt-get upgrade
+1. Type following two command one by onein Pi command prompt. "sudo apt-get update" and "sudo apt-get upgrade"
 1. Download github zip file with following 
   wget https://github.com/nassiramalik/IOT-Pi3-Alexa-Automation/archive/master.zip
 1. Unzip downloaded zip file "unzip master.zip" and cd to "IOT-Pi3-Alexa-Automation-master" folder
