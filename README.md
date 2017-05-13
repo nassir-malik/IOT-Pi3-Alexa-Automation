@@ -35,4 +35,5 @@ https://github.com/xtacocorex/CHIP_IO
   
 1. Download "Putty.exe" from following URL https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
-1. Run "Putty.exe" and 
+1. Run "Putty.exe" & click yes to popup. On putty command line type in "pi" for "Login as:" & enter. For password enter "raspberry" and   hit enter. You should "pi@raspberrypi:~ $" prompt.
+
