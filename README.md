@@ -25,7 +25,7 @@ https://github.com/xtacocorex/CHIP_IO
       
     ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/win32diskimager.jpg)
 
-1. Once image writing is completed, Copy "ssh" and "" files to root of the sd card. Open "wpa_supplicant.conf" in text editor and update  ssid & password.(ssh file is empty)
+1. Once image writing is completed, Copy "ssh" and "wpa_supplicant.conf" files to root of the sd card. Open "wpa_supplicant.conf" in text editor and update  ssid & password.(ssh file is empty)
 
 1. Insert the sd card into Raspberry Pi 3 and boot
 
