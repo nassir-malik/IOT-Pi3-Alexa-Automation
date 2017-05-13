@@ -47,4 +47,4 @@ https://github.com/xtacocorex/CHIP_IO
 1. Type following two commands Pi command prompt to update it. "sudo apt-get update" and "sudo apt-get upgrade"
 1. Download github zip file with following command
   "wget https://github.com/nassiramalik/IOT-Pi3-Alexa-Automation/archive/master.zip"
-1. Unzip downloaded zip file "unzip master.zip" and cd to "IOT-Pi3-Alexa-Automation-master" folder
+1. Unzip downloaded zip file with "unzip master.zip" command and type "cd IOT-Pi3-Alexa-Automation-master" command after unzip completes
