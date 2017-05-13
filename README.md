@@ -39,7 +39,7 @@ https://github.com/xtacocorex/CHIP_IO
 
     ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/puttypi3prompt.png)
 
-1. Type "sudo raspi-config" and go to "Interfacing Options" and enable VNC. Reboot pi3 by typing this command "sudo reboot". You will lose ssh conncetion.
+1. Type "sudo raspi-config" and go to "Interfacing Options" and enable VNC. Reboot pi3 by typing this command "sudo reboot". You will loose ssh connection.
 
 1. Download and install VNC client on youe pc https://www.realvnc.com/download/vnc/windows/. Try to connect to Respberry Pi3 using IP address.
 
