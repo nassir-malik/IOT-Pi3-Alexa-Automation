@@ -16,7 +16,7 @@ https://github.com/xtacocorex/CHIP_IO
 1. Install "win32diskimager-1.0.0-install.exe"
 
 1. Connect mini-sd card to a computer. In windows explorer right click your sd card drive letter and click on format menu.
-  In format window select "FAT" in "File System" list file and click start.
+  In format window select "FAT" in "File System" list and click start. Wait for the task to complete.
   
   ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/formatsdcard.jpg)
   
@@ -25,8 +25,15 @@ https://github.com/xtacocorex/CHIP_IO
       
     ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/win32diskimager.jpg)
 
-1. Once image writing is completed, open windows explorer and click on sd card driver letter and create a "ssh" file without any    extenssion on root of sd card.
+1. Once image writing is completed, Copy "ssh" (ssh file is empty) and "wpa_supplicant.conf" files to root of the sd card. Open "wpa_supplicant.conf" in text editor and update ssid (wi-fi name) & password.
 
-1. Insert the sd card into Raspberry Pi 3 and boot
+1. Insert the sd card into Raspberry Pi 3 and boot and wit for 10 seconds
 
+1. Go to run anftype "cmd" and type rap -a in command prompt. Look for "Physical Addres" that starts with b8-12\* & note the IP address.
+  that is you Raspberry Pi3 IP address on your network.
+  
+  ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/pi3ipaddress.jpg)
+  
 1. Download "Putty.exe" from following URL https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+1. Run "Putty.exe" and 
