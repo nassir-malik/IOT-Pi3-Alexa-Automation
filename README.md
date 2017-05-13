@@ -29,8 +29,7 @@ https://github.com/xtacocorex/CHIP_IO
 
 1. Insert the sd card into Raspberry Pi 3 and boot and wit for 10 seconds
 
-1. Go to run & type "cmd" and type arp -a in command prompt. Look for "Physical Addres" that starts with b8-27\* & note the IP address.
-  that is you Raspberry Pi3 IP address on your network.
+1. Go to run & type "cmd" and type arp -a in command prompt. Look for "Physical Addres" that starts with b8-27\* & note the Internet Address. This is your Raspberry Pi3 IP address on your network.
   
   ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/pi3ipaddress.jpg)
   
