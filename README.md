@@ -43,4 +43,4 @@ https://github.com/xtacocorex/CHIP_IO
 
 1. Download and install VNC client on youe pc https://www.realvnc.com/download/vnc/windows/. Connect VNC to Respberry Pi3 using IP address. Login with user name "pi" and password "raspberry". You should see Pi3 desktop.
 
-  ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/pi3vnc.png)
+    ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/pi3vnc.png)
