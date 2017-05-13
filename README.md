@@ -31,7 +31,9 @@ https://github.com/xtacocorex/CHIP_IO
 
 1. Go to run anftype "cmd" and type rap -a in command prompt. Look for "Physical Addres" that starts with b8-12\* & note the IP address.
   that is you Raspberry Pi3 IP address on your network.
+  
   ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/pi3ipaddress.jpg)
+  
 1. Download "Putty.exe" from following URL https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 1. Run "Putty.exe" and 
