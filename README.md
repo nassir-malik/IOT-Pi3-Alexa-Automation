@@ -37,3 +37,5 @@ https://github.com/xtacocorex/CHIP_IO
 
 1. Run "Putty.exe" & click yes to popup. On putty command line type in "pi" for "Login as:" & enter. For password enter "raspberry" and   hit enter. You should "pi@raspberrypi:~ $" prompt.
 
+  ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/puttypi3prompt.png)
+
