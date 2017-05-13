@@ -18,7 +18,7 @@ https://github.com/xtacocorex/CHIP_IO
 1. Connect mini-sd card to a computer. In windows explorer right click your sd card drive letter and click on format menu.
   In format window select "FAT" in "File System" list and click start. Wait for the task to complete.
   
-  ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/formatsdcard.jpg)
+    ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/formatsdcard.jpg)
   
 1. Launch "win32diskimager" program. Select image file "2017-04-10-raspbian-jessie.img" and your sd card drive letter and click "Write"
   (Wait for program to finish writing REAPBIAN image to the sd card)
@@ -31,11 +31,11 @@ https://github.com/xtacocorex/CHIP_IO
 
 1. Go to run & type "cmd" and type arp -a in command prompt. Look for "Physical Address" that starts with b8-27\* & note the Internet Address. This is your Raspberry Pi3 Wi-fi IP address on your network.
   
-  ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/pi3ipaddress.jpg)
+    ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/pi3ipaddress.jpg)
   
 1. Download "Putty.exe" from following URL https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 1. Run "Putty.exe" & click yes to popup. On putty command line type in "pi" for "Login as:" & enter. For password enter "raspberry" and   hit enter. You should "pi@raspberrypi:~ $" prompt.
 
-  ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/puttypi3prompt.png)
+    ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/puttypi3prompt.png)
 
