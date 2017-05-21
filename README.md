@@ -41,7 +41,7 @@ https://github.com/xtacocorex/CHIP_IO
 
 1. Type "sudo raspi-config" and go to "Interfacing Options" and enable VNC. Reboot pi3 by typing this command "sudo reboot". You will loose ssh connection.
 
-1. Download and install VNC client on youe pc https://www.realvnc.com/download/vnc/windows/. Connect VNC to Respberry Pi3 using IP address. Login with user name "pi" and password "raspberry". You should see Pi3 desktop.
+1. (Optional) download and install VNC client on youe pc https://www.realvnc.com/download/vnc/windows/. Connect VNC to Respberry Pi3 using IP address. Login with user name "pi" and password "raspberry". You should see Pi3 desktop.
 
     ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/pi3vnc.png)
 1. Launch Pi ssh session with putty or localy through VNC and type following two commands Pi command prompt to update it. "sudo apt-get update" and "sudo apt-get upgrade" (This will take a while)
