@@ -48,24 +48,24 @@ class device_handler(debounce_handler):
             GPIO.output(int(11), state) ## State is true/false
         elif name =="office":
             GPIO.setmode(GPIO.BOARD) ## Use board pin numbering
-            GPIO.setup(int(2), GPIO.OUT)   ## Setup GPIO Pin to OUTPUT
-            GPIO.output(int(2), state) ## State is true/false
+            GPIO.setup(int(13), GPIO.OUT)   ## Setup GPIO Pin to OUTPUT
+            GPIO.output(int(13), state) ## State is true/false
         elif name == "room":
             GPIO.setmode(GPIO.BOARD)  ## Use board pin numbering
             GPIO.setup(int(5), GPIO.OUT)  ## Setup GPIO Pin to OUTPUT
             GPIO.output(int(5), state)  ## State is true/false
         elif name == "tv":
             GPIO.setmode(GPIO.BOARD)  ## Use board pin numbering
-            GPIO.setup(int(4), GPIO.OUT)  ## Setup GPIO Pin to OUTPUT
-            GPIO.output(int(4), state)  ## State is true/false
+            GPIO.setup(int(13), GPIO.OUT)  ## Setup GPIO Pin to OUTPUT
+            GPIO.output(int(13), state)  ## State is true/false
         elif name == "pc":
             GPIO.setmode(GPIO.BOARD)  ## Use board pin numbering
             GPIO.setup(int(8), GPIO.OUT)  ## Setup GPIO Pin to OUTPUT
             GPIO.output(int(8), state)  ## State is true/false
         elif name == "xbox":
             GPIO.setmode(GPIO.BOARD)  ## Use board pin numbering
-            GPIO.setup(int(9), GPIO.OUT)  ## Setup GPIO Pin to OUTPUT
-            GPIO.output(int(9), state)  ## State is true/false
+            GPIO.setup(int(12), GPIO.OUT)  ## Setup GPIO Pin to OUTPUT
+            GPIO.output(int(12), state)  ## State is true/false
         elif name == "light":
             GPIO.setmode(GPIO.BOARD)  ## Use board pin numbering
             GPIO.setup(int(10), GPIO.OUT)  ## Setup GPIO Pin to OUTPUT
