@@ -32,10 +32,10 @@ class device_handler(debounce_handler):
         # GPIO.output(int(7), state) ## State is true/false
 
         ############# Uncomment this code to revers the relay polarity ############
-        # if state==HIGH:
-        #     state = LOW
+        # if state==True:
+        #     state = False
         # else:
-        #     state = HIGH
+        #     state = True
         ############# Uncomment this code to revers the relay polarity ############
 
         if name=="kitchen":
