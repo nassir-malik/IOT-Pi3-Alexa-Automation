@@ -10,7 +10,7 @@ https://github.com/xtacocorex/CHIP_IO
 
 ## Instructions:
 
-1. Download "RASPBIAN JESSIE WITH PIXEL" and unzip "2017-04-10-raspbian-jessie.zip"
+1. Download "RASPBIAN STRETCH WITH DESKTOP" and unzip "2017-04-10-raspbian-jessie.zip"
   https://www.raspberrypi.org/downloads/raspbian/
 
 1. Download "win32diskimager-1.0.0-install.exe" program from following URL
