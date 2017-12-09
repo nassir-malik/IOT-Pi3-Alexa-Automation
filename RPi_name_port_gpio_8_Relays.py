@@ -56,8 +56,8 @@ class device_handler(debounce_handler):
             GPIO.output(int(5), state)  ## State is true/false
         elif name == "tv":
             GPIO.setmode(GPIO.BOARD)  ## Use board pin numbering
-            GPIO.setup(int(13), GPIO.OUT)  ## Setup GPIO Pin to OUTPUT
-            GPIO.output(int(13), state)  ## State is true/false
+            GPIO.setup(int(15), GPIO.OUT)  ## Setup GPIO Pin to OUTPUT
+            GPIO.output(int(15), state)  ## State is true/false
         elif name == "pc":
             GPIO.setmode(GPIO.BOARD)  ## Use board pin numbering
             GPIO.setup(int(8), GPIO.OUT)  ## Setup GPIO Pin to OUTPUT
